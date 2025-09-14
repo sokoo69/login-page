@@ -52,7 +52,7 @@ body{
     
            .login-page .login-form .rember-me{
            
-            align-items: center;
+            align-items: left;
             
             margin-bottom: 10px;
             padding-bottom: 10px;
@@ -60,6 +60,7 @@ body{
             
            }
            .login-page .login-form .rember-me input{
+            align-items: flex-start;
             display: inline-block;
           width: 100%;
            }
